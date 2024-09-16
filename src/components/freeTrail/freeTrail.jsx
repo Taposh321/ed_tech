@@ -1,6 +1,6 @@
 export default function FreeTrail(){
     return (<>
-    <div className="trailContainer rrelative w-full max-w-[1000px]   flex  flex-col md:flex-row justify-center items-center pl-[20px] gap-10">
+    <div className="trailContainer relative w-full max-w-[1000px]   flex  flex-col md:flex-row justify-center items-center pl-[20px] gap-10">
         <div className="trailWrapper  flex w-full justify-center md:justify-start ">
             <div className="flex flex-col  gap-3">
                 <div className="text-sm text-[gray]">GREAT LEARNING PLATFORM</div>    
