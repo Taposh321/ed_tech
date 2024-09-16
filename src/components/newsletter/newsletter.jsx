@@ -24,7 +24,7 @@ export default function Newsletter(){
         </div>
         <div  className="w-full  flex justify-center items-center ">
             <div className="w-[300px] h-[300px] ">
-                <img className="w-full h-full object-cover" src="./src/assets/newsletter.png" alt="" srcset="" />
+                <img className="w-full h-full object-cover" src="./assets/newsletter.png" alt="" srcset="" />
             </div>
         </div>
     </div>

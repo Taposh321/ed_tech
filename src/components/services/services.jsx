@@ -26,20 +26,20 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
      <div className="service-items flex flex-col md:flex-row items-center justify-center gap-3">
      <div className="item flex flex-1 flex-col items-center p-6 gap-5  w-[400px] ">
-         <div className="itemIcon w-[60px] h-auto"><img className="w-full h-auto object-cover" src="./src/assets/icon-2.png" alt="" srcset="" /></div>
+         <div className="itemIcon w-[60px] h-auto"><img className="w-full h-auto object-cover" src="./assets/icon-2.png" alt="" srcset="" /></div>
         
          <div className="itemHeading font-bold text-xl">Experienced Teachers</div>
          <div className="itemDescription">We teach in small groups with experienced ,supportive staff who are trained to understand some of the problems our students face</div>
         </div>
          <div className="item flex flex-1 flex-col items-center p-6 gap-5  w-[400px] ">
-         <div className="itemIcon w-[60px] h-auto"><img className="w-full h-auto object-cover" src="./src/assets/icon-1.png" alt="" srcset="" /></div>
+         <div className="itemIcon w-[60px] h-auto"><img className="w-full h-auto object-cover" src="./assets/icon-1.png" alt="" srcset="" /></div>
       
          <div className="itemHeading font-bold text-xl">Progressive Learning</div>
          <div className="itemDescription">Our mission is to use our knowlege,skills and networks to equip people with multiple disadvantages with skills to gain and ustain employment</div>
          
         </div>
         <div className="item flex flex-1 flex-col items-center p-6 gap-5  w-[400px] ">
-         <div className="itemIcon w-[60px] h-auto"><img className="w-full h-auto object-cover" src="./src/assets/icon-2.png" alt="" srcset="" /></div>
+         <div className="itemIcon w-[60px] h-auto"><img className="w-full h-auto object-cover" src="./assets/icon-2.png" alt="" srcset="" /></div>
       
          <div className="itemHeading font-bold text-xl">Graduate and get job</div>
          <div className="itemDescription">We teach in small groups with experienced ,supportive staff who are trained to understand some of the problems our students face</div>

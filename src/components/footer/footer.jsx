@@ -11,10 +11,10 @@ export default function Footer(){
        </div>
        <div className="pages flex flex-col gap-2 text-sm">
         <div className="font-bold">Resources</div>
-         <div>Home</div>
-         <div>About us</div>
-         <div>Courses</div>
-         <div>Blog</div>
+         <div>Our Homes</div>
+         <div>Member stories</div>
+         <div>Video</div>
+         <div>Free trial</div>
        </div>
        <div className="pages flex flex-col gap-2 text-sm">
         <div className="font-bold">Company</div>

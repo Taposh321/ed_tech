@@ -17,7 +17,7 @@ export default function Course(){
        
             <div className="courseItem flex flex-col">
              <div className="coursePhoto w-full max-w-[400px]">
-                <img className="w-full h-auto" src="./src/assets/image.png" alt="" />
+                <img className="w-full h-auto" src="./assets/image.png" alt="" />
              </div>
              <div className="courseDiscription flex flex-col gap-2">
                 <div className="courseTitle font-bold">
@@ -33,7 +33,7 @@ export default function Course(){
             </div>
             <div className="courseItem flex flex-col">
              <div className="coursePhoto w-full max-w-[400px]">
-                <img className="w-full h-auto" src="./src/assets/image-1.png" alt="" />
+                <img className="w-full h-auto" src="./assets/image-1.png" alt="" />
              </div>
              <div className="courseDiscription flex flex-col gap-2">
                 <div className="courseTitle font-bold">
@@ -49,7 +49,7 @@ export default function Course(){
             </div>
             <div className="courseItem flex flex-col">
              <div className="coursePhoto w-full max-w-[400px]">
-                <img className="w-full h-auto" src="./src/assets/image-2.png" alt="" />
+                <img className="w-full h-auto" src="./assets/image-2.png" alt="" />
              </div>
              <div className="courseDiscription flex flex-col gap-2">
                 <div className="courseTitle font-bold">
