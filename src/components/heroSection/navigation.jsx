@@ -3,7 +3,7 @@ import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { useState } from "react";
  
  export default function Navigation (){
-    const[value,setValue]=useState(false)
+    const[value,setValue]=useState(true)
     const handler =()=>{
 setValue((pre)=>{
     return pre?false:true
