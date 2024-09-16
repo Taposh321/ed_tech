@@ -4,7 +4,7 @@ return(<>
     <div className="flex w-full p-4 items-center">
 
     <div className="logo max-w-[150px] w-full">
-        <img className="w-full h-full object-cover " src="./public/assets/logo.png" alt="Logo" srcset="" />
+        <img className="w-full h-full object-cover " src="./assets/Logo.png" alt="Logo" srcset="" />
     </div>
     <div className="flex flex-1 bg-green-500">
     <div className="navLinks flex justify-center flex-1 ">

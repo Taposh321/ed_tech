@@ -17,9 +17,9 @@ export default function FreeTrail(){
         
       <div className="trailPhotowrapper  relative w-[300px] h-[350px] rounded-sm  ">
       <div className="absolute w-[80px] h-[80px] top-[-30px] left-[-40px] z-10">
-            <img className="w-full h-full object-cover" src="./public/assets/vector.png" alt="" />
+            <img className="w-full h-full object-cover" src="./assets/Vector.png" alt="" />
         </div>
-        <img className="w-full h-full object-cover z-20 absolute" src="./public/assets/images.png" alt="" />
+        <img className="w-full h-full object-cover z-20 absolute" src="./assets/Images.png" alt="" />
       </div>
 
     </div>
