@@ -19,7 +19,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
             </div>
         </div>
         <div className="groupPhoto flex flex-1 ">
-       <img className="w-[500px] h-auto object-cover" src="./src/assets/cards.png" alt="" srcset="" />
+       <img className="w-[500px] h-auto object-cover" src="./assets/Cards.png" alt="" srcset="" />
         </div>
         
      </div>
