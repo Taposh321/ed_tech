@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 export default function Hero(){
   return(<>
-   <section className="heroSection flex flex-col h-[100%] w-full min-h-[400px]">
+   <section className="heroSection relative z-0 flex flex-col h-[100%] w-full min-h-[400px]">
      <Navigation />
      <div className="heroContent gap-10 md:gap-0  flex flex-1 flex-col md:flex-row ">
       <div className="heroTextContainer overflow-hidden relative flex flex-col gap-3 flex-1 min-h-[400px] md:min-h-[100%]  justify-center pl-5">
@@ -20,7 +20,7 @@ export default function Hero(){
             Apply now <FontAwesomeIcon icon={faArrowRight} size='lg' />
         </div>
 
-        {/* vectors */}
+        {/* vectors icons */}
         <div className="absolute w-full h-full z-10">  
         <img  className="absolute left-[-150px] top-[-30px] rotate-[-45deg] z-20 h-[200px] w-[200px]" src="./assets/circleLine.png" alt="" srcset="" />
         <div className="absolute w-[40px] h-[40px] bottom-[10px] bg-yellow-400 z-10"></div>

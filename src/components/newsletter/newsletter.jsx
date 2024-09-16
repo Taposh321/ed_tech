@@ -8,7 +8,7 @@ export default function Newsletter(){
          setValue(()=> e.target.value )
     }
     return (<>
-    <div className="flex flex-col sm:flex-row w-full max-w-[1000px] bg-[#7aeafb] pl-[20px]">
+    <div className="flex flex-col sm:flex-row w-full max-w-[1000px] py-5 bg-[#7aeafb] pl-[20px]">
         <div className="flex   min-h-[100px] w-full items-center  ">
            <div className="flex flex-col gap-2 w-full ">
             <span className="text-sm text-[gray] tracking-wider">Newsletter</span>
